@@ -1,7 +1,9 @@
 # Iris Species Classification
 
-This project demonstrates a machine learning model that classifies Iris species based on their characteristics. The model uses the Iris dataset from the `sklearn` library and a Random Forest classifier.
-
+This project demonstrates a machine learning model that classifies Iris species based on their characteristics. The model uses the Iris dataset from the `sklearn` library and a Random Forest classifier.</br>
+<br>
+![Iris](https://github.com/cleverson0803/Iris_Species_Classification/blob/main/iris_plot.png)
+</br>
 ## Project Overview
 
 The Iris dataset is a well-known dataset in the field of machine learning and statistics. It contains 150 samples of Iris flowers with four features each: sepal length, sepal width, petal length, and petal width. The samples belong to three different species: Iris setosa, Iris versicolor, and Iris virginica.
